@@ -41,7 +41,7 @@ App = {
   // Listen for events emitted from the contract
   listenForEvents: function () {
     App.contracts.Election.deployed().then(function (instance) {
-      // Restart Chrome if you are unable to receive this event
+      // Restart browser if you are unable to receive this event
       // This is a known issue with Metamask
       // https://github.com/MetaMask/metamask-extension/issues/2393
       instance.votedEvent({}, {
