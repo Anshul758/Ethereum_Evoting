@@ -38,7 +38,5 @@ truffle migrate --reset (this command will upload the smart contract from your l
 ### Finally it will generate a QR code with proper feedback.
 ![image](https://user-images.githubusercontent.com/52832978/153744507-f0aa230f-3b24-4956-b186-f0c73d222746.png)
  
+<img src="https://c.tenor.com/IAUvvrUY7zQAAAAC/done-spongebob.gif" width="290" height="250" />
 
-<a href="LINK_TO_REPO">
-  <img src="https://tenor.com/view/done-spongebob-rainbow-im-done-finished-gif-16088121" alt="Gif" width="150" height="150">
-</a>
