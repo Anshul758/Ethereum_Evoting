@@ -98,7 +98,7 @@ contract("Election", function(accounts) {
     }).then(function(candidate) {
       var voteCount = candidate[3];
       assert.equal(voteCount, 1, "accepts first vote");
-      // Try to vote again
+      // If try to vote again with same Id
       return electionInstance.vote(candidateId, { from: accounts[1] });
     }).then(assert.fail).catch(function(error) {
       assert(error.message.indexOf('revert') >= 0, "error message must contain revert");
