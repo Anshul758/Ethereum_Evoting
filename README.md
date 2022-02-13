@@ -23,19 +23,19 @@ truffle migrate --reset (this command will upload the smart contract from your l
 6. Finally run npm run dev command and you're good to go.
 
 Steps to cast vote:-
-set up a truffle and link the network with your metamask
+set up a truffle and link the network with your metamask.
 ![image](https://user-images.githubusercontent.com/52832978/153744531-63b10f2c-6df8-4dd1-81fa-0f9c0d14a009.png)
 
 1.
 ![image](https://user-images.githubusercontent.com/52832978/153744441-98d4ea23-47bc-46d3-881e-3fd476414881.png)
 
-2.
+2. click on vote and it will open metamast to generate vote.
 ![image](https://user-images.githubusercontent.com/52832978/153744461-d2b50b9d-9ac5-499d-badc-ea5f58c327bf.png)
 
-3.It will show "You've already voted" after successful casting
+3.It will show "You've already voted" after successful casting.
 ![image](https://user-images.githubusercontent.com/52832978/153744473-6cbe577e-4111-410c-bf5a-87bd2e5be478.png)
 
-4. Finally our QR gives us feedback
+4. Finally it will generate a QR code with proper feedback.
 ![image](https://user-images.githubusercontent.com/52832978/153744507-f0aa230f-3b24-4956-b186-f0c73d222746.png)
  
 
