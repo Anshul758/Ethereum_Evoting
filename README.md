@@ -29,7 +29,7 @@ truffle migrate --reset (this command will upload the smart contract from your l
 ### List of candidates you can choose anyone to vote
 ![image](https://user-images.githubusercontent.com/52832978/153744441-98d4ea23-47bc-46d3-881e-3fd476414881.png)
 
-### click on vote and it will open metamast to generate vote.
+### click on vote and it will open metamask to generate vote.
 ![image](https://user-images.githubusercontent.com/52832978/153744461-d2b50b9d-9ac5-499d-badc-ea5f58c327bf.png)
 
 ### It will show "You've already voted" after successful casting.
