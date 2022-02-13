@@ -26,11 +26,11 @@ contract Voting {
     );
 
     constructor () public {
-        addCandidate("Amit shah","Bharatiya Janata Party");
-        addCandidate("Sankar Malakar","Indian National Congress");
-        addCandidate("Saman Pathak","Communist Party Of India (Marxist)");
-        addCandidate("Amar Singh","All India Trinamool Congress");
-        addCandidate("Sudip Mandal","Bahujan Samaj Party");
+        addCandidate("Narendra Modi","Bharatiya Janata Party");
+        addCandidate("Rahul Gandhi","Indian National Congress");
+        addCandidate("Tapan Kumar sen","Communist Party Of India (Marxist)");
+        addCandidate("Mamta Banerjee","All India Trinamool Congress");
+        addCandidate("Mayawati","Bahujan Samaj Party");
         addCandidate("NOTA","None of the above");
     }
 
